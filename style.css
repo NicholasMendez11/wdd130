@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+background-image: url('https://img.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1409.jpg?w=1380&t=st=1673157523~exp=1673158123~hmac=5e813d1d953283384721429e80820cc36751d1d59a6a241da8daa823bd639956');
+
+}
+.profile-pic{
+    border-radius: 35px;
+}
+.container{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 3em;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(240, 248, 255, 0.764);
+    border-radius: 35px;
+}
+.name{
+    color:navy;
+    font-weight: bold;
+    font-size:40px;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+.description{
+    font-family: 'Open Sans', sans-serif;
+    font-size: x-large;
+    color:rgb(5, 5, 7)
+
+}
