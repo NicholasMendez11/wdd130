@@ -56,8 +56,9 @@ header{
 nav a {  padding: 35px;}
 
 nav a:hover{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     color: #553555;
+    border-radius: 15px;
 }
 .card-img{
     border-style: solid;
